@@ -10,7 +10,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
 
 ### Launching EC2
 
-    ./start.sh <Instance Name>
+    ./start.sh <Instance Name> <script path to be executed on EC2>
 
 This command creates Latest Debian 12 EC2 box. 
 with port 22 for ssh open.
